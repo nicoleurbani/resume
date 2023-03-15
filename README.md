@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title> Nicole Urbani </title>
-</head>
+ </head>
 <body>
    <table cellspacing="20">
         <tr>
