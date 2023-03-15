@@ -113,7 +113,7 @@
     <hr>
     <p><a href="hobbies.html"><strong>My Hobbies</strong></a></p>
     
-    <a href="contactme.html"><strong>Contact Me 📧</strong></a>
+    <a href="contactme.html"><strong>Contact Me</strong></a>
 
 </body>
 </html>
